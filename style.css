@@ -29,7 +29,7 @@ video{
     align-items: center;
     justify-content: space-between;
     z-index:10;
-    background:#f119ff;
+    background:#d25437;
     /* background:#009688; */
     padding: 10px 0;
     border-bottom-left-radius: 10px;
@@ -57,7 +57,7 @@ video{
     content: '';
     height: 3px;
     width: 0%;
-    background: #f119ff ;
+    background: #d25437 ;
     position: absolute;
     left: 0;
     bottom: -1px;
@@ -74,7 +74,7 @@ button{
     margin: 20px 10px;
     border-radius: 25px;
     font-weight: bold;
-    border: 2.5px solid #f119ff;
+    border: 2.5px solid #d25437;
     background: transparent;
     color: #fff;
     cursor: pointer;
@@ -85,7 +85,7 @@ button{
     height:100px;
 }
 .span{
-    background: #f119ff;
+    background: #d25437;
     height: 100%;
     width: 0;
     border-radius: 25px;
