@@ -173,10 +173,10 @@ footer p{
     }
     .g_links_section{
         height: fit-content;
-        /* background: url(https://cdn.pixabay.com/photo/2014/03/25/22/53/smoke-298243_960_720.jpg) no-repeat; */
+        background: url(https://images.pexels.com/photos/1723637/pexels-photo-1723637.jpeg?auto=compress&cs=tinysrgb&w=1600) no-repeat;
 
-        /* background-size: 100% 100%; */
-        background-color: black;
+        background-size: 100% 100%;
+        /*background-color: black;*/
         
     }
     video{
